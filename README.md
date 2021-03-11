@@ -9,6 +9,7 @@ OpenCV, dlib 등의 라이브러리와 Blink 모델을 이용하여 손을 쓰�
 ## 사용 라이브러리
 * OpenCV
 * Dlib
+* 그 외 다수
 
 ## 사용 모델
 * Blink
